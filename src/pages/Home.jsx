@@ -110,7 +110,8 @@ const Home = () => {
               </h3>
               <p className="text-foreground/70 mb-2">2016</p>
               <p className="text-foreground/90">
-                Préparateur de commandes, Chariots élévateurs 1 - 3 - 5.
+                Préparateur de commandes, Chariots élévateurs   
+                 1 - 3 - 5.
               </p>
             </div>            
           </div>
